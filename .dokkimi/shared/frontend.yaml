@@ -1,0 +1,7 @@
+type: SERVICE
+name: demo-spa
+description: React UI fixture with routing + DB query scenarios
+image: demo-spa:latest
+port: 80
+healthCheck: /
+uiPath: /
